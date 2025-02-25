@@ -1,2 +1,1 @@
-# Aula02GitADS3
-Repositório exemplo
+Aula teste para o Git e suas funções.
